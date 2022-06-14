@@ -1,0 +1,22 @@
+.baslik h1{
+    margin:auto;
+}
+.baslik{
+    margin-top: 50px;
+}
+
+.tablo{
+    margin-top:50px;
+}
+
+.isim{
+    width: 100%;
+    text-align:center;
+    color: grey;
+    font-size: 16px;
+}
+
+.isim a{
+    text-decoration: none;
+    color: grey;
+}
